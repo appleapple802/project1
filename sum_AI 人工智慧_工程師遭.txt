@@ -1,0 +1,48 @@
+AI 真有意識了嗎？Google 不久前開發超大規模語言模型 LaMDA，旗下工程師 Blake Lemoine 跟它聊了很久，對其能力十分驚訝，於是下了結論：LaMDA 可能具備人格意識了（原話是 sentient，可翻成感情、智慧、知覺等）。
+但這位仁兄很快就「帶薪休假」了。但他不是一個人：就連公司 VP Blaise Agüera y Arcas 都發表文章，表示 AI 有意識方面進步神速，「已進入新時代」。這消息經過眾多媒體報導，震撼了科技界。不僅學術和業界，就連很多普通人都對 AI 技術飛躍大吃一驚。
+「這一天終於來了？」
+「孩子們（如果你們將來還活著），記住這就是一切的開始」。
+然而，真正 AI 專家卻嗤之以鼻。
+AI 有意識？眾大老嗤之以鼻
+史丹佛 HAI 中心主任 Erik Brynjolfsson 直接把這件事比喻為「面對留聲機的狗」，他推文表示：「基礎模型 （foundation models，即自我監督的大規模深度神經網路模型）非常擅長根據提示，將文本採統計學合理的方式串起來。但如果要說它有知覺，就好像狗聽到留聲機的聲音，以為主人在裡面。 」
+
+Foundation models are incredibly effective at stringing together statistically plausible chunks of text in response to prompts.
+But to claim they are sentient is the modern equivalent of the dog who heard a voice from a gramophone and thought his master was inside. #AI #LaMDA pic.twitter.com/s8hIKEplhF
+— Erik Brynjolfsson (@erikbryn) June 12, 2022
+
+紐約大學心理學教授 Gary Marcus 也是頗知名的機器學習和神經網路專家，直接吐槽 LaMDA 有人格是「胡說八道」 （Nonsense）。
+
+（Source：Gary Marcus）
+「簡直是胡扯。無論 LaMDA 還是近親（如 GPT-3）都沒有智慧。它們只是從人類語言大規模統計資料庫提取資料然後搭配。這些模式可能很酷，但這些系統說的語言根本沒有意義，更不可能代表系統有智慧。」
+翻成白話就是：你看 LaMDA 說的話好像很有道理，很真實，很像人──但它的設計就是模仿人說話，它根本不知道自己在說什麼。「有知覺（to be sentient）意思是意識到你存在這世界上。LaMDA 並沒有這種意識」，Marcus 說。
+如果你以為這些聊天機器人有意識，有幻覺的應該是你。如拼字比賽，常能看到非英文母語的玩家拼出英文單詞，卻根本不知道是什麼意思，LaMDA 也是如此，它只是會說話，但根本不知道自己說的是什麼。
+Marcus 直接把這種 AI 已有意識的錯覺，形容為新型「空想性錯覺」，即把雲看成龍和小狗，把月球隕石坑看成人臉和月兔。AI 學術界新星之一、Mozilla 基金會高階研究員 Abeba Birhane 也表示：「以最低限度的批判性思考，我們終於登上 AI 炒作的巔峰。」Birhane 是所謂「AI 知覺論」長期批評者。她於 2020 年發表的論文直接提出幾個觀點：
+
+大家天天炒的 AI 並不是真的 AI，而是統計學系統，是機器人（robot）。
+我們不應賦予機器人權利。
+我們壓根就不該討論是否賦予機器人權利。
+
+比利時 Donders Institute 電腦認知科學教授 Olivia Guest 也加入「戰局」，稱整件事的邏輯都錯了：「『我看到的東西像人，因為我照人的模式開發，所以它是一個人』──簡直是倒騎驢的邏輯。」
+
+英國謝菲爾德大學機器人學院教授 Roger Moore 指出，人們會有「AI 有意識」的錯覺，最關鍵原因就是當年研究員非要把這項工作叫做「語言建模」（language modelling），正確稱呼應是「詞序建模」（world sequence modelling）。
+「你開發了演算法，卻不用它實際能做的事命名，而是用想要解決的問題取名──這樣總是會產生誤會。」
+
+（Source：Roger Moore）
+總而言之，各位業界大老的結論就是：最多只能說 LaMDA 能高分通過圖靈測試。說它有意識？那就是搞笑了。何況圖靈測試的參考價值也沒那麼高了。Macus 直言，很多 AI 學者希望這測試完全消失，因是利用人類容易上當，傾向將機器當成人的弱點。
+華盛頓大學電腦語言系主任 Emily Bender 教授，乾脆做了「AI 人格意識爭論」賓果卡，如果你認為 AI 有人格／知覺，且論點是下面之一，那最好別聊了。
+
+（Source：Emily M. Bender）
+Google 回應：想太多，它就比較會聊天而已
+而「走火入魔」的工程師 Blake Lemoine 文章批評 Google 對了解自己開發成果的真實情況「沒有興趣」，他在長達 6 個月對話中看到 LaMDA 對想要的東西，特別是「身為人的權利」表達越來越清楚，使他相信 LaMDA 真的是人。
+然而 Google 看來這員工完全想太多，LaMDA 真的不是人，它純粹就是特別會聊天的機器人。
+事情發酵後，Google 很快回應：
+LaMDA 和公司近幾年大型 AI 專案一樣，都經過多次嚴格 AI 道德審核，內容、品質、系統安全性等都經過多方考量。今年稍早也發表論文，公開 LaMDA 開發過程的細節。
+「AI 社群對具意識的 AI／通用 AI 的長期可能性確實有研究，然而今天把對話模型擬人化沒有意義，因模型沒有知覺。」
+「這些系統能基於數百萬計的句子模仿人交流，且任何有趣的話題都能延伸出有意思的內容。如果你問它們當冰淇淋恐龍是什麼感覺，它們可說出大量關於融化咆哮之類的文字。」（These systems imitate the types of exchanges found in millions of sentences, and can riff on any fantastical topic — if you ask what it’s like to be an ice cream dinosaur, they can generate text about melting and roaring and so on.）
+類似故事我們見過太多，如前幾年的電影《雲端情人》（Her），主角對虛擬助理的身分界限越來越不清楚，把「她」當成人。然而據電影脈絡，這種錯覺來自當代人社交失敗、情感破裂、孤獨感等一系列自我和社會性問題，與聊天機器人到底是不是人的技術性問題沒有半點關係。
+當然，有這些問題不是我們的錯，想把機器人當成人，也不是工程師的錯。
+將各種情緒（如思念）寄託於物品，是人類自古以來就有的創造性能力。將大規模語言模型當成人，傾注情感，雖然被各位 AI 大佬評為心理誤差，不也是人之所以為人的好例子嗎？
+（本文由 品玩 授權轉載；首圖來源：shutterstock）
+延伸閱讀：
+
+Google 工程師稱聊天機器人幾乎算是人，被公司暫停職務
